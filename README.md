@@ -1,6 +1,6 @@
 # What is a lakehouse? 
 
-(from: databricks)
+(This Comments from databricks)
 
 # A lakehouse has the following key features:
 
