@@ -1,6 +1,6 @@
 # What is a lakehouse? 
 
-(This Comments from databricks)
+  First statement: No WareHouse, No Lake. thats New Data-Model
 
 # A lakehouse has the following key features:
 
